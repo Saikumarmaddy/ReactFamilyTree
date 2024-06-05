@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SaiKumarHierarchyTree/static/css/main.2becbed3.css",
-    "main.js": "/SaiKumarHierarchyTree/static/js/main.927b0c8b.js",
-    "static/js/787.0278b31d.chunk.js": "/SaiKumarHierarchyTree/static/js/787.0278b31d.chunk.js",
-    "static/media/bgImage.png": "/SaiKumarHierarchyTree/static/media/bgImage.2b722624cc7e05b5e417.png",
-    "index.html": "/SaiKumarHierarchyTree/index.html",
-    "main.2becbed3.css.map": "/SaiKumarHierarchyTree/static/css/main.2becbed3.css.map",
-    "main.927b0c8b.js.map": "/SaiKumarHierarchyTree/static/js/main.927b0c8b.js.map",
-    "787.0278b31d.chunk.js.map": "/SaiKumarHierarchyTree/static/js/787.0278b31d.chunk.js.map"
+    "main.css": "/SaiKumarHierarchyView/static/css/main.97ccd1d9.css",
+    "main.js": "/SaiKumarHierarchyView/static/js/main.15a5c1db.js",
+    "static/js/787.0278b31d.chunk.js": "/SaiKumarHierarchyView/static/js/787.0278b31d.chunk.js",
+    "static/media/bgImage.png": "/SaiKumarHierarchyView/static/media/bgImage.2b722624cc7e05b5e417.png",
+    "index.html": "/SaiKumarHierarchyView/index.html",
+    "main.97ccd1d9.css.map": "/SaiKumarHierarchyView/static/css/main.97ccd1d9.css.map",
+    "main.15a5c1db.js.map": "/SaiKumarHierarchyView/static/js/main.15a5c1db.js.map",
+    "787.0278b31d.chunk.js.map": "/SaiKumarHierarchyView/static/js/787.0278b31d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2becbed3.css",
-    "static/js/main.927b0c8b.js"
+    "static/css/main.97ccd1d9.css",
+    "static/js/main.15a5c1db.js"
   ]
 }
