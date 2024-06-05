@@ -5,7 +5,7 @@ import MadFatherComponent from "./madFatherComponent";
 function GenericComp() {
   const [maternalView, setMaternalView] = useState(false);
   const [paternalView, setPaternalView] = useState(false);
-  const [home, setHome] = useState(false);
+  const [home, setHome] = useState(true);
   return (
     <>
       <div className="flex flex-row justify-center h-20 bg-gray-500 border-2 border-black">
