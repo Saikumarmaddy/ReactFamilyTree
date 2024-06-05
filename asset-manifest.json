@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ReactFamilyTree/static/css/main.eb6309e5.css",
-    "main.js": "/ReactFamilyTree/static/js/main.43bd13f4.js",
-    "static/js/787.0278b31d.chunk.js": "/ReactFamilyTree/static/js/787.0278b31d.chunk.js",
-    "static/media/bgImage.png": "/ReactFamilyTree/static/media/bgImage.2b722624cc7e05b5e417.png",
-    "index.html": "/ReactFamilyTree/index.html",
-    "main.eb6309e5.css.map": "/ReactFamilyTree/static/css/main.eb6309e5.css.map",
-    "main.43bd13f4.js.map": "/ReactFamilyTree/static/js/main.43bd13f4.js.map",
-    "787.0278b31d.chunk.js.map": "/ReactFamilyTree/static/js/787.0278b31d.chunk.js.map"
+    "main.css": "/SaiKumarHierarchyTree/static/css/main.2becbed3.css",
+    "main.js": "/SaiKumarHierarchyTree/static/js/main.927b0c8b.js",
+    "static/js/787.0278b31d.chunk.js": "/SaiKumarHierarchyTree/static/js/787.0278b31d.chunk.js",
+    "static/media/bgImage.png": "/SaiKumarHierarchyTree/static/media/bgImage.2b722624cc7e05b5e417.png",
+    "index.html": "/SaiKumarHierarchyTree/index.html",
+    "main.2becbed3.css.map": "/SaiKumarHierarchyTree/static/css/main.2becbed3.css.map",
+    "main.927b0c8b.js.map": "/SaiKumarHierarchyTree/static/js/main.927b0c8b.js.map",
+    "787.0278b31d.chunk.js.map": "/SaiKumarHierarchyTree/static/js/787.0278b31d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb6309e5.css",
-    "static/js/main.43bd13f4.js"
+    "static/css/main.2becbed3.css",
+    "static/js/main.927b0c8b.js"
   ]
 }
