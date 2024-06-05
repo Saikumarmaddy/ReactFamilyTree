@@ -17,11 +17,11 @@ const initialNodes = [
   {
     id: "2",
     data: { label: "Alla Adiyamma Clan" },
-    position: { x: -300, y: 100 },
+    position: { x: -500, y: 100 },
     className: "light",
     style: {
       backgroundColor: "rgba(255, 0, 0, 0.2)",
-      width: 395,
+      width: 595,
       height: 260,
       fontSize: "15px",
       fontWeight: "bold",
@@ -30,7 +30,7 @@ const initialNodes = [
   {
     id: "2a",
     data: { label: "Alla Adiyamma - Alla Lakshmi Narayana" },
-    position: { x: 85, y: 50 },
+    position: { x: 175, y: 50 },
     parentId: "2",
     extent: "parent",
     style: {
@@ -41,13 +41,13 @@ const initialNodes = [
   {
     id: "2a-one",
     data: { label: "Alla Vishweswara Rao - Nookaratnam" },
-    position: { x: -70, y: 100 },
+    position: { x: -110, y: 100 },
     parentId: "2a",
   },
   {
     id: "2a-two",
     data: { label: "Polamarasetty Adi Lakshmi - Subbarao" },
-    position: { x: 130, y: 100 },
+    position: { x: 180, y: 100 },
     parentId: "2a",
     style: {
       width: 170,
@@ -61,7 +61,7 @@ const initialNodes = [
     className: "light",
     style: {
       backgroundColor: "rgba(255, 0, 0, 0.2)",
-      width: "190%",
+      width: 3020,
       height: 260,
       fontSize: "15px",
       fontWeight: "bold",
@@ -129,20 +129,10 @@ const initialNodes = [
     className: "light",
     style: {
       backgroundColor: "rgba(255, 0, 0, 0.2)",
-      width: "48%",
+      width: 763,
       height: 260,
       fontSize: "15px",
       fontWeight: "bold",
-    },
-  },
-  {
-    id: "4h",
-    position: { x: 3125, y: 500 },
-    className: "light",
-    style: {
-      backgroundColor: "rgba(255, 255, 0, 0.2)",
-      width: "48%",
-      height: "30%",
     },
   },
   {
@@ -157,15 +147,25 @@ const initialNodes = [
     extent: "parent",
   },
   {
+    id: "4h",
+    position: { x: 3125, y: 500 },
+    className: "light",
+    style: {
+      backgroundColor: "rgba(255, 255, 0, 0.2)",
+      width: 763,
+      height: 230,
+    },
+  },
+  {
     id: "4a-one",
     data: { label: "XXXX -Varalakshmi" },
-    position: { x: -80, y: 400 },
+    position: { x: -140, y: 400 },
     parentId: "4a",
   },
   {
     id: "4a-two",
     data: { label: "Srinu - XXXX" },
-    position: { x: 130, y: 400 },
+    position: { x: 200, y: 400 },
     parentId: "4a",
   },
 
@@ -176,7 +176,7 @@ const initialNodes = [
     className: "light",
     style: {
       backgroundColor: "rgba(255, 0, 0, 0.2)",
-      width: "70%",
+      width: 1100,
       height: 260,
       fontSize: "15px",
       fontWeight: "bold",
@@ -199,8 +199,8 @@ const initialNodes = [
     className: "light",
     style: {
       backgroundColor: "rgba(255, 255, 0, 0.2)",
-      width: "70%",
-      height: "30%",
+      width: 1100,
+      height: 230,
     },
   },
   {
@@ -237,18 +237,18 @@ const initialNodes = [
   },
   {
     id: "6",
-    position: { x: -300, y: 500 },
+    position: { x: -500, y: 500 },
     className: "light",
     style: {
       backgroundColor: "rgba(255, 255, 0, 0.2)",
-      width: "25%",
-      height: "30%",
+      width: 595,
+      height: 230,
     },
   },
   {
     id: "6a",
     data: { label: "Alla Sri Rama Chandra Murthy - Alla PushpaLatha" },
-    position: { x: 85, y: 50 },
+    position: { x: 165, y: 50 },
     parentId: "6",
     extent: "parent",
     style: {
@@ -259,17 +259,16 @@ const initialNodes = [
   {
     id: "6a-one",
     data: { label: "Alla Sai Vinay Kumar" },
-    position: { x: -70, y: 100 },
+    position: { x: -80, y: 100 },
     parentId: "6a",
   },
   {
     id: "6a-two",
     data: { label: "Alla Jayanth Vijay" },
-    position: { x: 130, y: 100 },
+    position: { x: 160, y: 100 },
     parentId: "6a",
     style: {
       width: 170,
-      height: 50,
     },
   },
   {
@@ -278,8 +277,8 @@ const initialNodes = [
     className: "light",
     style: {
       backgroundColor: "rgba(255, 255, 0, 0.2)",
-      width: "190%",
-      height: "30%",
+      width: 3020,
+      height: 230,
     },
   },
   {
@@ -423,25 +422,25 @@ const initialNodes = [
   {
     id: "4a-one-a",
     data: { label: "Kasi" },
-    position: { x: -150, y: 100 },
+    position: { x: -130, y: 100 },
     parentId: "4a-one",
   },
   {
     id: "4a-one-b",
     data: { label: "XXXX" },
-    position: { x: 50, y: 100 },
+    position: { x: 90, y: 100 },
     parentId: "4a-one",
   },
   {
     id: "4a-two-a",
     data: { label: "XXXX" },
-    position: { x: 0, y: 100 },
+    position: { x: -70, y: 100 },
     parentId: "4a-two",
   },
   {
     id: "4a-two-b",
     data: { label: "XXXX" },
-    position: { x: 170, y: 100 },
+    position: { x: 120, y: 100 },
     parentId: "4a-two",
   },
   {
